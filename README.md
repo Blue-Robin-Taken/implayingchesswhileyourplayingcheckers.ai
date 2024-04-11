@@ -1,2 +1,2 @@
 # implayingchesswhileyourplayingcheckers.ai
-watch a chess ai duke it out with a checkers ai
+play chess vs checkers, checkers vs chess or watch two ai's duke it out
